@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KMPDemo</string>
+    <string name="kmp_ble_explorer">KMP BLE Explorer</string>
+</resources>

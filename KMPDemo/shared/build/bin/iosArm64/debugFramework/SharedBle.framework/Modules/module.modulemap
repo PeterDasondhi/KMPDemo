@@ -1,0 +1,8 @@
+framework module "SharedBle" {
+    umbrella header "SharedBle.h"
+
+    export *
+    module * { export * }
+
+    use Foundation
+}
